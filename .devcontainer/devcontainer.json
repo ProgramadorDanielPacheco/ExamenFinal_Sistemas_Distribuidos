@@ -1,0 +1,7 @@
+{
+  "name": "Mi entorno con Docker",
+  "image": "://microsoft.com",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+  }
+}
