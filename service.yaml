@@ -13,7 +13,7 @@ spec:
         app: web
     spec:
       containers:
-        - name: examen_final
+        - name: examen-final
           image: app-ejemplo-evaluacion:latest
           ports:
             - containerPort: 8080
